@@ -2,11 +2,6 @@ void setup() {
   size(600, 600);
 }
 void draw() {
-  text("circle", 10, 30); 
-fill(0, 102, 153);
-text("circle", 10, 60);
-fill(0, 102, 153, 51);
-text("circle", 40, 90);
   colorMode(RGB, 255);
   background(255);
   noFill();
